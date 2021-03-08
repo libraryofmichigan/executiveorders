@@ -1,0 +1,26 @@
+---
+layout: page
+---
+{%- assign items = site.data[site.metadata] -%}
+<div class="row">
+  <div class="col-md-12">
+
+    {% include index/description.html %}
+   
+  </div>
+  <div class="col-md-6">  
+
+    {% include index/carousel.html%}
+
+  </div>
+  <div class="col-md-6">
+
+{% include feature/card.html header="How to Search this Collection" text="This website is useful to researchers who already have a public act number and year in hand. Subject matter and MCL number searches will not produce any results. 
+
+To find documents related to a specific public act, enter the year and public act number into the above search box using the following format [1976-PA-390](https://temoshee.github.io/lmdigitalstatic2/browse.html#1976-pa-390). The same type of search can be performed for bill numbers. For example: [1995-SB-344](https://temoshee.github.io/lmdigitalstatic2/browse.html#1995-SB-344). 
+
+This website does not search the text of any documents. It only looks for public act numbers and bill numbers."%}
+   
+  </div>
+
+</div>

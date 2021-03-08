@@ -1,0 +1,5 @@
+field,display_name,btn,hidden,sort_name
+title,Title,,,
+bill_number,Bill Number,true,,
+public_act_number,Public Act Number,true,,
+date_published,Publication Date,true,,
