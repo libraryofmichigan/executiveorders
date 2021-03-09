@@ -1,5 +1,4 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,,
-bill_number,Bill Number,true,,
-public_act_number,Public Act Number,true,,
-date_published,Publication Date,true,,
+date,Date Issued,true,,
+
