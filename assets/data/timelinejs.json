@@ -131,6 +131,124 @@
         "text": {
           "headline": "Executive Order 1957-2"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104734",
+          "caption": "Executive Order 1964-2",
+          "link": "/executiveorders/items/cdm104734.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "28",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-2"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104735",
+          "caption": "Executive Order 1964-2A",
+          "link": "/executiveorders/items/cdm104735.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "28",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-2A"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104736",
+          "caption": "Executive Order 1964-2 (amended)",
+          "link": "/executiveorders/items/cdm104736.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "28",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-2 (amended)"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104737",
+          "caption": "Executive Order 1964-3",
+          "link": "/executiveorders/items/cdm104737.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "02",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-3"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104738",
+          "caption": "Executive Order 1964-4",
+          "link": "/executiveorders/items/cdm104738.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "08",
+          "day": "26",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-4"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104739",
+          "caption": "Executive Order 1964-4a",
+          "link": "/executiveorders/items/cdm104739.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-4a"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104740",
+          "caption": "Executive Order 1964-4b",
+          "link": "/executiveorders/items/cdm104740.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "13",
+          "year": "1964"
+        },
+        "text": {
+          "headline": "Executive Order 1964-4b"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104742",
+          "caption": "Executive Order 1965-1",
+          "link": "/executiveorders/items/cdm104742.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "16",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-1"
+        }
       }
     ]
 }

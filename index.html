@@ -165,6 +165,8 @@
                         
                         <li data-target="#imageCarousel" data-slide-to="8" class=""></li>
                         
+                        <li data-target="#imageCarousel" data-slide-to="9" class=""></li>
+                        
                     </ol>
                     <div id="carouselInner" class="carousel-inner">
                         
@@ -263,13 +265,13 @@
 
 <script> 
     //title,youtubeid/cdmid,objectid,collectionid
-    var carouselItems = [ [ "Executive Order 55-1 ", "104723", "cdm104723", "p16110coll2" ], [ "Executive Order 55-2", "104724", "cdm104724", "p16110coll2" ], [ "Executive Order 1956-7 ", "104726", "cdm104726", "p16110coll2" ], [ "Executive Order 1956-8", "104727", "cdm104727", "p16110coll2" ], [ "Executive Order 1956-9 ", "104728", "cdm104728", "p16110coll2" ], [ "Executive Order 1956-10", "104729", "cdm104729", "p16110coll2" ], [ "Executive Order 1957-1", "104731", "cdm104731", "p16110coll2" ], [ "Executive Order 1957-2", "104732", "cdm104732", "p16110coll2" ]];
+    var carouselItems = [ [ "Executive Order 55-1 ", "104723", "cdm104723", "p16110coll2" ], [ "Executive Order 55-2", "104724", "cdm104724", "p16110coll2" ], [ "Executive Order 1956-7 ", "104726", "cdm104726", "p16110coll2" ], [ "Executive Order 1956-8", "104727", "cdm104727", "p16110coll2" ], [ "Executive Order 1956-9 ", "104728", "cdm104728", "p16110coll2" ], [ "Executive Order 1956-10", "104729", "cdm104729", "p16110coll2" ], [ "Executive Order 1957-1", "104731", "cdm104731", "p16110coll2" ], [ "Executive Order 1957-2", "104732", "cdm104732", "p16110coll2" ], [ "Executive Order 1964-2", "104734", "cdm104734", "p16110coll2" ], [ "Executive Order 1964-2A", "104735", "cdm104735", "p16110coll2" ], [ "Executive Order 1964-2 (amended)", "104736", "cdm104736", "p16110coll2" ], [ "Executive Order 1964-3", "104737", "cdm104737", "p16110coll2" ], [ "Executive Order 1964-4", "104738", "cdm104738", "p16110coll2" ], [ "Executive Order 1964-4a", "104739", "cdm104739", "p16110coll2" ], [ "Executive Order 1964-4b", "104740", "cdm104740", "p16110coll2" ], [ "Executive Order 1965-1", "104742", "cdm104742", "p16110coll2" ]];
     var placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
     var carousel = document.getElementById("carouselInner");
     carouselItems.sort(function() { return 0.5 - Math.random() });
     var i;
     var slides = "";
-    for (i=0; i < 8; i++) {
+    for (i=0; i < 9; i++) {
         itemImg = "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/" + carouselItems[i][3] + "/id/" + carouselItems[i][1];
         slide = "<div class='carousel-item text-center py-2'><img class='image-fluid mx-auto h-100 lazyload' alt='image highlight' src='" + placeholder + "' data-src='" + itemImg + "'> <div class='carousel-caption'><h5 class='carousel-item-title text-white py-2'>" + carouselItems[i][0] + "</h5><a target='_blank' href='/executiveorders/items/" + carouselItems[i][2] + ".html' class='btn btn-sm btn-primary'>View Item</a></div></div>";
         slides += slide;
