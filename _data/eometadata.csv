@@ -1,9 +1,9 @@
-objectid,cdmid,title,governor,date,format
-cdm104723,104723,Executive Order 55-1 ,Williams,1955-01-07,application/pdf
-cdm104724,104724,Executive Order 55-2,Williams,1955-05-24,application/pdf
-cdm104726,104726,Executive Order 1956-7 ,Williams,1956-10-09,application/pdf
-cdm104727,104727,Executive Order 1956-8,Williams,1956-10-25,application/pdf
-cdm104728,104728,Executive Order 1956-9 ,Williams,1956-10-25,application/pdf
-cdm104729,104729,Executive Order 1956-10,Williams,1956-12-05,application/pdf
-cdm104731,104731,Executive Order 1957-1,Williams,1957-01-07,application/pdf
-cdm104732,104732,Executive Order 1957-2,Williams,1957-05-21,application/pdf
+objectid,cdmid,title,governor,year,date,format
+cdm104723,104723,Executive Order 55-1 ,Williams,1955,1955-01-07,application/pdf
+cdm104724,104724,Executive Order 55-2,Williams,1955,1955-05-24,application/pdf
+cdm104726,104726,Executive Order 1956-7 ,Williams,1955,1956-10-09,application/pdf
+cdm104727,104727,Executive Order 1956-8,Williams,1955,1956-10-25,application/pdf
+cdm104728,104728,Executive Order 1956-9 ,Williams,1955,1956-10-25,application/pdf
+cdm104729,104729,Executive Order 1956-10,Williams,1955,1956-12-05,application/pdf
+cdm104731,104731,Executive Order 1957-1,Williams,1955,1957-01-07,application/pdf
+cdm104732,104732,Executive Order 1957-2,Williams,1955,1957-05-21,application/pdf

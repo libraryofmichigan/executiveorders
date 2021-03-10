@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
 governor,Governor,true,,
+year,Year,true,,
 date,Date Issued,,,
 
