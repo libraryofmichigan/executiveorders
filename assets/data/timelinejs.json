@@ -594,6 +594,156 @@
         "text": {
           "headline": "Executive Order 1965-22"
         }
-      },
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104766",
+          "caption": "Executive Order 1965-22-A",
+          "link": "/executiveorders/items/cdm104766.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "13",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-22-A"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104767",
+          "caption": "Executive Order 1965-23",
+          "link": "/executiveorders/items/cdm104767.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "17",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-23"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104768",
+          "caption": "Executive Order 1965-23-A",
+          "link": "/executiveorders/items/cdm104768.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "28",
+          "year": "1966"
+        },
+        "text": {
+          "headline": "Executive Order 1965-23-A"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104769",
+          "caption": "Executive Order 1965-24",
+          "link": "/executiveorders/items/cdm104769.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "22",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-24"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104770",
+          "caption": "Executive Order 1965-25",
+          "link": "/executiveorders/items/cdm104770.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "04",
+          "year": "1966"
+        },
+        "text": {
+          "headline": "Executive Order 1965-25"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104771",
+          "caption": "Executive Order 1965-26",
+          "link": "/executiveorders/items/cdm104771.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "03",
+          "year": "1966"
+        },
+        "text": {
+          "headline": "Executive Order 1965-26"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104772",
+          "caption": "Executive Order 1965-27",
+          "link": "/executiveorders/items/cdm104772.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "03",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-27"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104773",
+          "caption": "Executive Order 1965-28",
+          "link": "/executiveorders/items/cdm104773.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "03",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-28"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104774",
+          "caption": "Executive Order 1965-29",
+          "link": "/executiveorders/items/cdm104774.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "09",
+          "year": "1965"
+        },
+        "text": {
+          "headline": "Executive Order 1965-29"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/104775",
+          "caption": "Executive Order 1965-30",
+          "link": "/executiveorders/items/cdm104775.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "03",
+          "year": "1966"
+        },
+        "text": {
+          "headline": "Executive Order 1965-30"
+        }
+      }
     ]
 }
