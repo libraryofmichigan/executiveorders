@@ -9,9 +9,10 @@
         "logo": "https://lmdigital.libraryofmichigan.org/themes/library-of-michigan-digital/images/logo.svg" 
     },
     "date_start": "1955",
-    "date_end": "1965",
+    "date_end": "1966",
     "objects": {
-        "application/pdf": "16"
+        "application/pdf": "39",
+        null: "0"
         
     },
     "data": "https://temoshee.github.io/executiveorders/assets/data/datapackage.json",
