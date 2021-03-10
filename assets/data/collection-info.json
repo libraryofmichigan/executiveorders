@@ -1,0 +1,20 @@
+{ 
+    "title": "Historical Michigan Executive Orders",
+    "url": "https://temoshee.github.io/executiveorders/",
+    "image": "/executiveorders/assets/img/eoletterhead2.jpg", 
+    "description": "The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
+    "publisher": { 
+        "name": "Library of Michigan, State Law Library", 
+        "url": "https://lmdigital.libraryofmichigan.org/", 
+        "logo": "https://lmdigital.libraryofmichigan.org/themes/library-of-michigan-digital/images/logo.svg" 
+    },
+    "date_start": "1955",
+    "date_end": "1957",
+    "objects": {
+        "application/pdf": "8"
+        
+    },
+    "data": "https://temoshee.github.io/executiveorders/assets/data/datapackage.json",
+    "last_build_date": "2021-03-10"
+}
+

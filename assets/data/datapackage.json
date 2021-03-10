@@ -1,0 +1,46 @@
+{
+    "profile": "data-package",
+    "name": "historical-michigan-executive-orders-data",
+    "title": "Historical Michigan Executive Orders Data",
+    "description": "Metadata and data derived from Historical Michigan Executive Orders. The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
+    
+    "homepage": "https://temoshee.github.io/executiveorders/",
+    "contributors": [
+        {
+            "title": "Library of Michigan, State Law Library",
+            "path": "https://lmdigital.libraryofmichigan.org/",
+            "role": "author"
+        }
+    ],
+    "image": "/executiveorders/assets/img/eoletterhead2.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+        
+        
+        
+        
+        
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Historical Michigan Executive Orders full metadata in csv",
+            "description": "Complete metadata export for Historical Michigan Executive Orders objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Historical Michigan Executive Orders full metadata in json",
+            "description": "Complete metadata export for Historical Michigan Executive Orders objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
