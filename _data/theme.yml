@@ -78,7 +78,7 @@ browse-buttons: false # true / false, adds previous/next arrows to items, but in
 # comma delimited list, reference url is automatic
 # metadata-export-fields: "title,description,creator,recipient,date,date-is-approximate,latitude,longitude,item-information,subject,related-publication,publisher-digital,source,original-identifier,# identifier,rights,rightsstatement,type,format,language,relation,cdmid,objectid,youtubeid"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,creator,format"
+# metadata-facets-fields: "subject,creator,format"
 
 ##########
 # ADVANCED OPTIONS
