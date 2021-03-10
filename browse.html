@@ -209,6 +209,19 @@ function makeCard(obj) {
     card += '<br>';
     }
     
+    if(obj["year"]){
+    card += '<strong>Year:</strong> ';
+    
+    var btns = obj["year"].split(";");
+    for (var i = 0, len = btns.length; i < len; i++) {
+        if(btns[i] != "") {
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="/executiveorders/browse.html#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        }
+    }
+    
+    card += '<br>';
+    }
+    
     if(obj["date"]){
     card += '<strong>Date Issued:</strong> ';
     
@@ -298,14 +311,14 @@ function shuffle(array) {
 /* add items */
 var items = [
     
-    { "title":"Executive Order 55-1", "format":"application/pdf", "governor":"Williams","date":"1955-01-07",  "col": "p16110coll2", "cdm":"104723", "id":"cdm104723" },
-    { "title":"Executive Order 55-2", "format":"application/pdf", "governor":"Williams","date":"1955-05-24",  "col": "p16110coll2", "cdm":"104724", "id":"cdm104724" },
-    { "title":"Executive Order 1956-7", "format":"application/pdf", "governor":"Williams","date":"1956-10-09",  "col": "p16110coll2", "cdm":"104726", "id":"cdm104726" },
-    { "title":"Executive Order 1956-8", "format":"application/pdf", "governor":"Williams","date":"1956-10-25",  "col": "p16110coll2", "cdm":"104727", "id":"cdm104727" },
-    { "title":"Executive Order 1956-9", "format":"application/pdf", "governor":"Williams","date":"1956-10-25",  "col": "p16110coll2", "cdm":"104728", "id":"cdm104728" },
-    { "title":"Executive Order 1956-10", "format":"application/pdf", "governor":"Williams","date":"1956-12-05",  "col": "p16110coll2", "cdm":"104729", "id":"cdm104729" },
-    { "title":"Executive Order 1957-1", "format":"application/pdf", "governor":"Williams","date":"1957-01-07",  "col": "p16110coll2", "cdm":"104731", "id":"cdm104731" },
-    { "title":"Executive Order 1957-2", "format":"application/pdf", "governor":"Williams","date":"1957-05-21",  "col": "p16110coll2", "cdm":"104732", "id":"cdm104732" }
+    { "title":"Executive Order 55-1", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1955-01-07",  "col": "p16110coll2", "cdm":"104723", "id":"cdm104723" },
+    { "title":"Executive Order 55-2", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1955-05-24",  "col": "p16110coll2", "cdm":"104724", "id":"cdm104724" },
+    { "title":"Executive Order 1956-7", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1956-10-09",  "col": "p16110coll2", "cdm":"104726", "id":"cdm104726" },
+    { "title":"Executive Order 1956-8", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1956-10-25",  "col": "p16110coll2", "cdm":"104727", "id":"cdm104727" },
+    { "title":"Executive Order 1956-9", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1956-10-25",  "col": "p16110coll2", "cdm":"104728", "id":"cdm104728" },
+    { "title":"Executive Order 1956-10", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1956-12-05",  "col": "p16110coll2", "cdm":"104729", "id":"cdm104729" },
+    { "title":"Executive Order 1957-1", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1957-01-07",  "col": "p16110coll2", "cdm":"104731", "id":"cdm104731" },
+    { "title":"Executive Order 1957-2", "format":"application/pdf", "governor":"Williams","year":"1955","date":"1957-05-21",  "col": "p16110coll2", "cdm":"104732", "id":"cdm104732" }
 ];
 
 /* init browse page */
