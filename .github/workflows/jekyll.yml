@@ -12,7 +12,7 @@ on:
 # then build out site using jekyll
 jobs:
   jekyll:
-    runs-on: ubuntu-latest
+    runs-on:  ubuntu-18.04 #ubuntu-latest
     steps:
       # checkout code
       - uses: actions/checkout@v2
