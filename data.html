@@ -15,11 +15,11 @@
 
 
 <meta name="robots" content="noindex" />
-<meta name="description" content="The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.">
+<meta name="description" content="This is a collection of Michigan gubernatorial executive orders from 1955-****. It is not a complete collection. This website does not search the text of any executive orders.">
 <meta name="author" content="Timothy Watters, Library of Michigan, State Law Library" >
 <!-- Open Graph meta -->
 <meta property="og:title" content="Data | Historical Michigan Executive Orders" />
-<meta property="og:description" content="The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here." />
+<meta property="og:description" content="This is a collection of Michigan gubernatorial executive orders from 1955-****. It is not a complete collection. This website does not search the text of any executive orders." />
 <meta property="og:site_name" content="Historical Michigan Executive Orders" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="/executiveorders/assets/img/eoletterhead2.jpg" />
@@ -27,7 +27,7 @@
 <meta property="og:url" content="https://temoshee.github.io/executiveorders/data.html" />
 <meta property="og:locale" content="en_US" />
 <!-- schema.org JSON-LD -->
-<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"Data | Historical Michigan Executive Orders","publisher":"Library of Michigan, State Law Library","description":"The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.","image":"/executiveorders/assets/img/eoletterhead2.jpg","url":"https://temoshee.github.io/executiveorders/data.html"}</script> 
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"Data | Historical Michigan Executive Orders","publisher":"Library of Michigan, State Law Library","description":"This is a collection of Michigan gubernatorial executive orders from 1955-****. It is not a complete collection. This website does not search the text of any executive orders.","image":"/executiveorders/assets/img/eoletterhead2.jpg","url":"https://temoshee.github.io/executiveorders/data.html"}</script> 
 
 
 <!-- Analytics --> 
@@ -39,7 +39,7 @@
     <div class="row align-items-center">
         <div id="title" class="col-md-9">
             <h1><a class="text-dark font-weight-normal" href="/executiveorders/" >Historical Michigan Executive Orders</a></h1>	 
-            <p>Scanned from papers held at the Library of Michigan, State Law Library</p>
+            <p>Scanned from paper documents held at the Library of Michigan, State Law Library</p>
         </div>
         <div class="col-md-3 d-none d-lg-block text-right">
             <a class="btn btn-outline-light" href="https://lmdigital.libraryofmichigan.org/" target="_blank" rel="noopener">
@@ -68,7 +68,7 @@
                 </li>
                 
                 <li class="nav-item ">
-                    <a class="nav-link " href="/executiveorders/browse.html">Browse</a>
+                    <a class="nav-link " href="/executiveorders/timeline.html">Timeline</a>
                 </li></ul>
             <script>
     function site_search() {
@@ -110,7 +110,14 @@
                 <p>Download this collection's data in a variety of reusable formats.</p>
                 
                 
+                
                 <div class="card my-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Timeline</h5>
+                        <p class="card-text">A time-focused JSON data export designed for use with <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS</a>.</p>
+                        <a href="/executiveorders/assets/data/timelinejs.json" class="btn btn-outline-dark" target="_blank">TimelineJS JSON</a>
+                    </div>
+                </div><div class="card my-3">
                     <div class="card-body">
                         <h5 class="card-title">Website Source Code</h5>
                         <p class="card-text">GitHub repository containing source code for this project built with <a href="https://github.com/CollectionBuilder/collectionbuilder-contentdm" target="_blank" rel="noopener">CollectionBuilder-CONTENTdm</a>.</p>
@@ -128,7 +135,7 @@
     "@context":"https://schema.org/",
     "@type":"Dataset",
     "name":"Historical Michigan Executive Orders Data",
-    "description":"Metadata and data derived from Historical Michigan Executive Orders. The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
+    "description":"Metadata and data derived from Historical Michigan Executive Orders. This is a collection of Michigan gubernatorial executive orders from 1955-****. It is not a complete collection. This website does not search the text of any executive orders.",
     
     "url":"https://temoshee.github.io/executiveorders/data.html",
     "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -140,7 +147,20 @@
         }
     ],
     "hasPart" : [
+        
         {
+            "@type": "Dataset",
+            "name": "Historical Michigan Executive Orders timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
+            "distribution":[
+                {
+                    "@type":"DataDownload",
+                    "encodingFormat":"JSON",
+                    "contentUrl":"https://temoshee.github.io/executiveorders/assets/data/timelinejs.json"
+                }
+            ]      
+        },{
             "@type": "Dataset",
             "name": "Historical Michigan Executive Orders full metadata",
             "description": "Complete metadata export for Historical Michigan Executive Orders objects.",

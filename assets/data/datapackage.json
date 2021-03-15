@@ -2,7 +2,7 @@
     "profile": "data-package",
     "name": "historical-michigan-executive-orders-data",
     "title": "Historical Michigan Executive Orders Data",
-    "description": "Metadata and data derived from Historical Michigan Executive Orders. The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
+    "description": "Metadata and data derived from Historical Michigan Executive Orders. This is a collection of Michigan gubernatorial executive orders from 1955-****. It is not a complete collection. This website does not search the text of any executive orders.",
     
     "homepage": "https://temoshee.github.io/executiveorders/",
     "contributors": [
@@ -26,6 +26,14 @@
         
         
         
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "Historical Michigan Executive Orders timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
