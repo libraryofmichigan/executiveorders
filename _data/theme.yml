@@ -68,8 +68,8 @@ browse-buttons: false # true / false, adds previous/next arrows to items, but in
 ##########
 # TIMELINE PAGE
 #
-#year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
-#year-nav-increment: 5 # set increments to auto gen nav years
+year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
+year-nav-increment: 1 # set increments to auto gen nav years
 
 ##########
 # DATA 

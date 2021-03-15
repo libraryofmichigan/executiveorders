@@ -9,22 +9,23 @@ credits: false
 
 # About the Collection 
 
-### This is a collection of selected legislative history documents mostly from 1973-1995.
+### This is a collection of selected Michigan gubernatorial executive orders scanned from paper documents held at the [Library of Michigan, State Law Library](https://www.michigan.gov/lawlibrary).
 
-The State Law Library frequently receives requests for scanned images of paper documents related to the legislative history of Michigan public acts. Rather then delete these files, we put them here for the next time. This is a random sample collection based on library patron requests. The Law Library has thousands of paper pages of legislative history documents which have not been digitized. If you do not find what you seek here please send us an email at lmlawlib@michigan.gov
+This mini-website is for researchers who already have a specific executive order number or wish to browse by year. This site does not search the text or subject matter of any executive orders. It only looks for years or executive order numeric designations. Executive order numeric designations may not be when they were issued. For example, [Executive Order 1965-13A](https://temoshee.github.io/executiveorders/items/cdm104755.html) was issued on April 18, [1966](https://temoshee.github.io/executiveorders/browse.html#1966).
 
-### Daily requests for unique items
+### Created for quick lookups by library staff
 
-Many of these documents may not be available elsewhere. Before we set up a scanner the practice was to photocopy the pages and send them to the researcher. Consequently, some of the pages have been run through photocopiers so many times that the ink is disappearing. By scanning once and then posting the images here it helps with preservation.
+Many of these documents may not be available online or elsewhere. Library patrons often request specific documents and may not be interested in searching the text of those documents. This inspired the creation of this website so library staff could quickly access documents for library patrons without working through a long list of full-text search results.
 
 ### A living knowledge base
 
-We hope to develop and maintain this useful information as part of the regular course of doing business rather than having a separate project.
+We hope to develop and maintain this site as part of the regular course of doing business rather than having a separate project.
 
 ### Features
 
-- Search by public act number in the following exact format: [1976-PA-390](https://temoshee.github.io/lmdigitalstatic2/browse.html#1976-pa-390)
+- Search by executive order number or browse by year.
 - This site does not search the text of any documents
+- This site does not search by subject matter.
 
 ### Questions
 
