@@ -1,6 +1,6 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,,
-governor,Governor,yes,,
-year,Year,yes,,
+governor,Governor,true,,
+year,Year,true,,
 date,Date Issued,,,
 
