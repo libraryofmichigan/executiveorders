@@ -6918,6 +6918,96 @@
         "text": {
           "headline": "Executive Order 1993-20"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105216",
+          "caption": "Executive Order 1993-21",
+          "link": "/executiveorders/items/cdm105216.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "08",
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Executive Order 1993-21"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105217",
+          "caption": "Executive Order 1993-22",
+          "link": "/executiveorders/items/cdm105217.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "12",
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Executive Order 1993-22"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105218",
+          "caption": "Executive Order 1993-23",
+          "link": "/executiveorders/items/cdm105218.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "19",
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Executive Order 1993-23"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105219",
+          "caption": "Executive Order 1993-24",
+          "link": "/executiveorders/items/cdm105219.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "09",
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Executive Order 1993-24"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105220",
+          "caption": "Executive Order 1993-25",
+          "link": "/executiveorders/items/cdm105220.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "14",
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Executive Order 1993-25"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105221",
+          "caption": "Executive Order 1993-26",
+          "link": "/executiveorders/items/cdm105221.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "22",
+          "year": "1993"
+        },
+        "text": {
+          "headline": "Executive Order 1993-26"
+        }
       }
     ]
 }
