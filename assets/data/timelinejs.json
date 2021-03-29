@@ -7398,6 +7398,156 @@
         "text": {
           "headline": "Executive Order 1994-26"
         }
-      }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105250",
+          "caption": "Executive Order 1995-1",
+          "link": "/executiveorders/items/cdm105250.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "10",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-1"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105251",
+          "caption": "Executive Order 1995-2",
+          "link": "/executiveorders/items/cdm105251.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "26",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-2"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105252",
+          "caption": "Executive Order 1995-3",
+          "link": "/executiveorders/items/cdm105252.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "03",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-3"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105253",
+          "caption": "Executive Order 1995-4",
+          "link": "/executiveorders/items/cdm105253.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "07",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-4"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105254",
+          "caption": "Executive Order 1995-5",
+          "link": "/executiveorders/items/cdm105254.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "15",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-5"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105255",
+          "caption": "Executive Order 1995-6",
+          "link": "/executiveorders/items/cdm105255.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "31",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-6"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105256",
+          "caption": "Executive Order 1995-7",
+          "link": "/executiveorders/items/cdm105256.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "08",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-7"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105257",
+          "caption": "Executive Order 1995-8",
+          "link": "/executiveorders/items/cdm105257.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "15",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-8"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105258",
+          "caption": "Executive Order 1995-9",
+          "link": "/executiveorders/items/cdm105258.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "15",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-9"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105259",
+          "caption": "Executive Order 1995-10",
+          "link": "/executiveorders/items/cdm105259.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "15",
+          "year": "1995"
+        },
+        "text": {
+          "headline": "Executive Order 1995-10"
+        }
+      },
     ]
 }

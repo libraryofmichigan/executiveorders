@@ -9,12 +9,13 @@
         "logo": "https://lmdigital.libraryofmichigan.org/themes/library-of-michigan-digital/images/logo.svg" 
     },
     "date_start": "1955",
-    "date_end": "1994",
+    "date_end": "1995",
     "objects": {
-        "application/pdf": "493"
+        "application/pdf": "503",
+        null: "0"
         
     },
     "data": "https://temoshee.github.io/executiveorders/assets/data/datapackage.json",
-    "last_build_date": "2021-03-25"
+    "last_build_date": "2021-03-29"
 }
 
