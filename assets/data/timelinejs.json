@@ -7788,6 +7788,156 @@
         "text": {
           "headline": "Executive Order 1995-26"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105277",
+          "caption": "Executive Order 1996-1",
+          "link": "/executiveorders/items/cdm105277.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "31",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-1"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105278",
+          "caption": "Executive Order 1996-2",
+          "link": "/executiveorders/items/cdm105278.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "15",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-2"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105279",
+          "caption": "Executive Order 1996-3",
+          "link": "/executiveorders/items/cdm105279.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "04",
+          "day": "03",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-3"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105280",
+          "caption": "Executive Order 1996-4",
+          "link": "/executiveorders/items/cdm105280.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "04",
+          "day": "03",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-4"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105281",
+          "caption": "Executive Order 1996-5",
+          "link": "/executiveorders/items/cdm105281.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "29",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-5"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105282",
+          "caption": "Executive Order 1996-6",
+          "link": "/executiveorders/items/cdm105282.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "22",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-6"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105283",
+          "caption": "Executive Order 1996-7",
+          "link": "/executiveorders/items/cdm105283.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "07",
+          "day": "17",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-7"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105284",
+          "caption": "Executive Order 1996-8",
+          "link": "/executiveorders/items/cdm105284.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "08",
+          "day": "08",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-8"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105285",
+          "caption": "Executive Order 1996-9",
+          "link": "/executiveorders/items/cdm105285.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "22",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-9"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105286",
+          "caption": "Executive Order 1996-10",
+          "link": "/executiveorders/items/cdm105286.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "22",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-10"
+        }
       }
     ]
 }
