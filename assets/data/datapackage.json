@@ -2,7 +2,7 @@
     "profile": "data-package",
     "name": "historical-michigan-executive-orders-data",
     "title": "Historical Michigan Executive Orders Data",
-    "description": "Metadata and data derived from Historical Michigan Executive Orders. This is a limited collection of historical Michigan gubernatorial executive orders from 1955-****. This mini-website does not search by subject matter or inside the text of any executive orders. It is intended for quick lookups by users with executive order numbers in hand or who wish to browse by year",
+    "description": "Metadata and data derived from Historical Michigan Executive Orders. This is a limited collection of historical Michigan gubernatorial executive orders from 1955-1999. This mini-website does not search by subject matter or inside the text of any executive orders. It is intended for quick lookups by users with executive order numbers in hand or who wish to browse by year",
     
     "homepage": "https://temoshee.github.io/executiveorders/",
     "contributors": [
