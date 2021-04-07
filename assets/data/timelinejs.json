@@ -8493,6 +8493,66 @@
         "text": {
           "headline": "Executive Order 1999-10"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105327",
+          "caption": "Executive Order 1999-11",
+          "link": "/executiveorders/items/cdm105327.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "16",
+          "year": "1999"
+        },
+        "text": {
+          "headline": "Executive Order 1999-11"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105328",
+          "caption": "Executive Order 1999-12",
+          "link": "/executiveorders/items/cdm105328.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "19",
+          "year": "1999"
+        },
+        "text": {
+          "headline": "Executive Order 1999-12"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105329",
+          "caption": "Executive Order 1999-13",
+          "link": "/executiveorders/items/cdm105329.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "16",
+          "year": "1999"
+        },
+        "text": {
+          "headline": "Executive Order 1999-13"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105330",
+          "caption": "Executive Order 1999-14",
+          "link": "/executiveorders/items/cdm105330.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "24",
+          "year": "1999"
+        },
+        "text": {
+          "headline": "Executive Order 1999-14"
+        }
       }
     ]
 }
