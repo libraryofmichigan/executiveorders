@@ -7938,6 +7938,51 @@
         "text": {
           "headline": "Executive Order 1996-10"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105287",
+          "caption": "Executive Order 1996-11",
+          "link": "/executiveorders/items/cdm105287.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "19",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-11"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105288",
+          "caption": "Executive Order 1996-12",
+          "link": "/executiveorders/items/cdm105288.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "19",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-12"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105289",
+          "caption": "Executive Order 1996-13",
+          "link": "/executiveorders/items/cdm105289.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "23",
+          "year": "1996"
+        },
+        "text": {
+          "headline": "Executive Order 1996-13"
+        }
       }
     ]
 }

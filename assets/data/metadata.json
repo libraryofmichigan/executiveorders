@@ -2642,6 +2642,21 @@
         "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105286",
         "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll2/id/105286.pdf",
         "reference_url": "https://temoshee.github.io/executiveorders/items/cdm105286.html"
+    },
+    { 
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105287",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll2/id/105287.pdf",
+        "reference_url": "https://temoshee.github.io/executiveorders/items/cdm105287.html"
+    },
+    { 
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105288",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll2/id/105288.pdf",
+        "reference_url": "https://temoshee.github.io/executiveorders/items/cdm105288.html"
+    },
+    { 
+        "object_thumb": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105289",
+        "object_download": "https://cdm16110.contentdm.oclc.org/utils/getfile/collection/p16110coll2/id/105289.pdf",
+        "reference_url": "https://temoshee.github.io/executiveorders/items/cdm105289.html"
     }
     
 ] }
