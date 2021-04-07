@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://Temoshee.github.io
+url: https://libraryofmichigan.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /executiveorders
 # location of code, the full url to your github repository
-source-code: https://github.com/Temoshee
+source-code: https://github.com/libraryofmichigan
 
 ##########
 # SITE SETTINGS
