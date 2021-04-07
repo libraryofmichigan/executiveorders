@@ -8253,6 +8253,96 @@
         "text": {
           "headline": "Executive Order 1997-18"
         }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105310",
+          "caption": "Executive Order 1998-1",
+          "link": "/executiveorders/items/cdm105310.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "10",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Executive Order 1998-1"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105311",
+          "caption": "Executive Order 1998-2",
+          "link": "/executiveorders/items/cdm105311.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "18",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Executive Order 1998-2"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105312",
+          "caption": "Executive Order 1998-3",
+          "link": "/executiveorders/items/cdm105312.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "03",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Executive Order 1998-3"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105313",
+          "caption": "Executive Order 1998-4",
+          "link": "/executiveorders/items/cdm105313.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "17",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Executive Order 1998-4"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105314",
+          "caption": "Executive Order 1998-5",
+          "link": "/executiveorders/items/cdm105314.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "07",
+          "day": "29",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Executive Order 1998-5"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16110.contentdm.oclc.org/utils/getthumbnail/collection/p16110coll2/id/105315",
+          "caption": "Executive Order 1998-6",
+          "link": "/executiveorders/items/cdm105315.html",
+          "credit": "Historical Michigan Executive Orders"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "27",
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Executive Order 1998-6"
+        }
       }
     ]
 }
