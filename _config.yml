@@ -20,7 +20,7 @@ source-code: https://github.com/libraryofmichigan
 # title of site appears in banner
 title: Historical Michigan Executive Orders
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Scanned from paper documents held at the <a href="https://www.michigan.gov/lawlibrary/">Library of Michigan, State Law Library</a>
+tagline: Scanned from paper documents held at the <a href="https://www.michigan.gov/lawlibrary/" target="_blank" rel="noopener noreferrer">Library of Michigan, State Law Library</a>
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a collection of historic Michigan gubernatorial executive orders from 1955-1999. This static website does not search for subject matter or text inside of documents. It is best used for quick lookups by users with executive order numbers in hand or who wish to browse by year" 
