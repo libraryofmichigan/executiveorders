@@ -11,7 +11,7 @@ credits: false
 
 ### This is a collection of selected Michigan gubernatorial executive orders scanned from paper documents held at the [Library of Michigan, State Law Library](https://www.michigan.gov/lawlibrary).
 
-This mini-website is for researchers who already have a specific executive order number or wish to browse by year. This site does not search the text or subject matter of any executive orders. It only looks for years or executive order numeric designations. Executive order numeric designations may not be when they were issued. For example, [Executive Order 1965-13A](https://temoshee.github.io/executiveorders/items/cdm104755.html) was issued on April 18, [1966](https://temoshee.github.io/executiveorders/browse.html#1966).
+This mini-website is for researchers who already have a specific executive order number or wish to browse by year. This site does not search the text or subject matter of any executive orders. It only looks for years or executive order numeric designations. Executive order numeric designations may not be when they were issued. For example, [Executive Order 1965-13A](https://libraryofmichigan.github.io/executiveorders/items/cdm104755.html) was issued on April 18, [1966](https://libraryofmichigan.github.io/executiveorders/browse.html#1966).
 
 ### Created for quick lookups by library staff
 
